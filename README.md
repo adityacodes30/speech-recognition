@@ -1,4 +1,4 @@
-# speech-recognition
+# Speech-recognition
 ## This program converts the speech from a given audio file into texts and prints them line by line 
 <br> It splits the audio into chunks based on time interval and applies speech recognition to them one by one and then prints it 
 <br><br>
